@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="POSTILION_ERROR_CHECKER1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/POSTILION_ERROR_CHECKER.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

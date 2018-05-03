@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/dist/run1368408761/lib/sqlserverjdbc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dist/run1368408761/lib/sqljdbc4-3.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
