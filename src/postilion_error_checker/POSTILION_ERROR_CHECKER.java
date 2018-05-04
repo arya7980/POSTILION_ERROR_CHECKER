@@ -19,6 +19,7 @@ import javafx.stage.Stage;
 public class POSTILION_ERROR_CHECKER extends Application {
 
     //test dearaz
+    //04-05-2018
     @Override
     public void start(Stage stage) throws Exception {
         Parent root = FXMLLoader.load(getClass().getResource("checker_gui.fxml"));
